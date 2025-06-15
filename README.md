@@ -34,7 +34,7 @@ dev-configs/
 
 ### Git Submoduleとして使用
 ```bash
-git submodule add git@github.com:dotscone/dev-configs.git dev-configs
+git submodule add git@github.com:<github-user-id>/dev-configs.git dev-configs
 ```
 
 ### 手動コピーで使用
