@@ -19,12 +19,12 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    
+
     /* 追加の型安全性 */
     "noImplicitReturns": true,
     "noImplicitOverride": true,
-    "allowUnusedLabels": false,
-    "allowUnreachableCode": false
+    "allowUnusedLabels": false,    "allowUnreachableCode": false
   },
-  "include": ["src"]
+  "include": ["__template_only__"]
+  // Note: Replace include path with ["src"] when using this template in a project
 }

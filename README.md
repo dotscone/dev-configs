@@ -8,7 +8,7 @@ React + TypeScript + Vite プロジェクト用の開発環境設定テンプレ
 dev-configs/
 ├── .prettierrc              # Prettier設定
 ├── eslint.config.js         # ESLint設定（厳密・改行ルール付き）
-├── tsconfig.json           # TypeScript設定（シンプル版）
+├── tsconfig.template.json   # TypeScript設定テンプレート
 └── vscode-settings.json    # VS Code設定（手動フォーマット優先）
 ```
 
